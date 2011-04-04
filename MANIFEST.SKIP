@@ -1,0 +1,8 @@
+\.bak$
+~$
+Makefile$
+^\.git
+\.tar
+pm_to_blib
+XML-XBMC-
+\.(old|orig|rej)$
